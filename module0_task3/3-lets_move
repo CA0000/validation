@@ -1,2 +1,2 @@
-#mv Holberton School /tmp/u
-ls -ltra
+mv ./Holberton ./School /tmp/u
+
